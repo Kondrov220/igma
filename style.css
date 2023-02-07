@@ -1,0 +1,187 @@
+.logo {
+width: 1440px;
+height: 700px;
+    background-image: url(desk-header1.jpg);
+    color: white;
+}
+
+
+.text {
+    height: 500px;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+
+.all {
+    display: flex;
+    justify-content: center;
+}
+
+
+.link1 {
+    margin: 50px;
+    margin-left: 100px;
+}
+
+
+.link {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.link2{
+    width: 1440px;
+    display: flex;
+    justify-content: end;
+    margin: 45px;
+}
+
+.link3  {
+    margin-right: 50px;
+}
+
+
+.link4 {
+    border: 2px solid white;
+    border-radius: 100px;
+    width: 70px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 63px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+
+h4 {
+    font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+width: 427px;
+height: 28px;
+}
+
+
+
+h5 {
+    background-color: #FF4E50;
+    border-radius: 100px;
+    width: 220px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.past2 {
+    width: 1440px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.text2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+h6 {
+    width: 431px;
+    height: 27px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+
+.img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+.text3 {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.text4 {
+
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+}
+
+.text5 {
+    width: 135px;
+    border: 2px solid;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.text7 {
+font-size: 14px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #666666;
+
+}
+
+
+
+.text8 {
+font-size: 14px;
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #333333;
+}
